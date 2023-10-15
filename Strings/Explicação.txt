@@ -1,0 +1,7 @@
+isalpha(char c) - Retorna 1 se c é uma letra e 0 no caso contrário.
+isdigit(char c) - Retorna 1 se c é um dígito e 0 no caso contrário.
+isupper(char c) - Retorna 1 se c é uma letra maiúscula e 0 no caso contrário.
+islower(char c) - Retorna 1 se c é uma letra minúscula e 0 no caso contrário.
+isalnum(char c) - Retorna 1 se c é uma letra ou um dígito e 0 no caso contrário.
+
+Cada exemplo usa uma das funções isalpha, isdigit, isupper, islower e isalnum da biblioteca ctype.h para verificar as propriedades do caractere e exibe uma mensagem correspondente.
